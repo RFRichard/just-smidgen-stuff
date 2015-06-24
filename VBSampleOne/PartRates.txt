@@ -1,0 +1,8 @@
+Part*!*Description*!*Unit of Measue*!*Product Line*!*Rate
+ABC*!*ABC Part*!*IN3*!*FG*!*2.5
+XYZ*!*XYZ Widget*!*IN3*!*FG*!*2.0
+DEF*!*Part Def*!*IN3*!*FG*!*2.25
+
+
+
+
