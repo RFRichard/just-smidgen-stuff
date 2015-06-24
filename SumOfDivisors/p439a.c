@@ -1,3 +1,10 @@
+/*
+*   http://oeis.org/wiki/Sum_of_divisors_function
+*   
+*   S(N) = ∑1≤i≤N ∑1≤j≤N d(i·j)
+*   S(10^11) 
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
